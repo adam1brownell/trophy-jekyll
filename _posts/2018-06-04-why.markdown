@@ -18,6 +18,11 @@ image-sm: http://w4.wallls.com/uploads/original/201711/17/wallls.com_143304.jpg
 This idea comes from the book Seven Habits of Highly Effective People ([summary](https://blog.hubspot.com/sales/habits-of-highly-effective-people-summary)). In order to be effective, we have to devote time to renewing ourselves in key areas of our psyche-- you need to keep your saw sharp.
 
 ###### To Renew yourself...
+---
+Physically: 1. Eat well<br>2. Get sufficient rest/relaxation<br>3. Exercise regularly
+Spiritually: 1. Practice daily meditation<br>2. Spend time in nature<br>3. __Immerse yourself in great literature & music__
+---
+
 | Physically      | Spiritually | Mentally | Emotionally |
 |-----------------|-------------|----------|-------------|
 |1. Eat well<br>2. Get sufficient rest/relaxation<br>3. Exercise regularly| 1. Practice daily meditation<br>2. Spend time in nature<br>3. __Immerse yourself in great literature & music__|1. __Read good literature__<br>2. __Keep a journal of thoughts & insights__<br> 3. Limit TV/Internet only to enriching subjects| 1. Seek to deeply understand people<br> 2. __Make contributions to meaningful projects that improve lives of others__|
@@ -31,7 +36,7 @@ I am doing this for me. An audience is just a bonus.
 
 I want to be a thought leader in artificial intelligence and cognitive science. That is something I would find deeply fulfilling. This blog is a step in the right direction. As stated in the book *Mastery*:
 
-> Practice is vital in the journey of mastery. To be a master, you must fall in love with the process.
+`Practice is vital in the journey of mastery. To be a master, you must fall in love with the process.`
 
 Continually blogging is the best strategy for cultivating  mastery of the subject. Researching relevant topics will help me practice and improve. Falling in love // getting excited about blog posts will keep me motivated, improving, and learning.
 
@@ -39,11 +44,12 @@ I may not be the most informed researcher or the best writer, but if my content 
 
 Information is so widely available now that it would be a missed opportunity not to try to take advantage. Becoming adept at learning outside of the classroom is crucial to success. As Jim Rohn says:
 
-> Formal education will make you a living. Self-education will make you a fortune
+`Formal education will make you a living. Self-education will make you a fortune`
 
 ### 3. To Start
 **Starting** is the hardest part of anything. Writing this first post was *hard.* I kept second guessing my word-choice, my tone, and my style. But really those are trivial concerns in comparison to actually producing content. As Ze Frank says :
-> My pencils are sharp enough. Even the dull ones will make a mark
+
+`My pencils are sharp enough. Even the dull ones will make a mark`
 
 Actually [here](https://www.youtube.com/watch?v=RYlCVwxoL_g) is Ze Frank's *Invocation for Beginnings* speech, one of my all time favorites. It is incredible. Might get it tatoo'd on myself. What I love about Ze's speach is that is strikes at the heart of what keeps me from starting-- from past failures to comparisons to bad impulses-- and how to deal with each in turn. I could do a whole blog post on the poem...
 
