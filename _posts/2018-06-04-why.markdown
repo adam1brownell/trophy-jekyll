@@ -18,11 +18,8 @@ image-sm: http://w4.wallls.com/uploads/original/201711/17/wallls.com_143304.jpg
 This idea comes from the book Seven Habits of Highly Effective People ([summary](https://blog.hubspot.com/sales/habits-of-highly-effective-people-summary)). In order to be effective, we have to devote time to renewing ourselves in key areas of our psyche-- you need to keep your saw sharp.
 
 ###### To Renew yourself...
----
-Physically: 1. Eat well<br>2. Get sufficient rest/relaxation<br>3. Exercise regularly
-Spiritually: 1. Practice daily meditation<br>2. Spend time in nature<br>3. __Immerse yourself in great literature & music__
----
 
+---
 | Physically      | Spiritually | Mentally | Emotionally |
 |-----------------|-------------|----------|-------------|
 |1. Eat well<br>2. Get sufficient rest/relaxation<br>3. Exercise regularly| 1. Practice daily meditation<br>2. Spend time in nature<br>3. __Immerse yourself in great literature & music__|1. __Read good literature__<br>2. __Keep a journal of thoughts & insights__<br> 3. Limit TV/Internet only to enriching subjects| 1. Seek to deeply understand people<br> 2. __Make contributions to meaningful projects that improve lives of others__|
