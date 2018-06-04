@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Start with Why"
+date: 2018-06-04
+categories:
+  - Personal
+description:
+image: http://w4.wallls.com/uploads/original/201711/17/wallls.com_143304.jpg
+image-sm: http://w4.wallls.com/uploads/original/201711/17/wallls.com_143304.jpg
+---
+
+> "He who has a why to live can bear almost any how" - Nietzsche 
+
+> "
+
+## Why did I start this blog?
+1. To Sharpen the Saw
+This idea comes from the book [Seven Habits of Highly Effective People](https://www.amazon.com/dp/B01069X4H0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) ([summary](https://blog.hubspot.com/sales/habits-of-highly-effective-people-summary)):
+###### To Renew yourself...
+|Physically|Spiritually|Mentally|Emotionally|
+|----------|-----------|--------|-----------|
+|Eat Well  |Meditate   |Read    |Seek Friend| 
+
+2. To Keep myself Accountable 
+.. 
+3. To Be Who I Am Becoming. To Start today
+*Doing* is the hardest part of anything. Writing this first post was *hard.* I kept second guessing my word-choice, my tone, and my style. But really those are trivial concerns in comparison to actually producing content. As Ze Frank says :
+> "My pencils are sharp enough. Even the dull ones will make a mark"
+
+
