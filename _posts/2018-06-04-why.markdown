@@ -9,7 +9,7 @@ image: http://w4.wallls.com/uploads/original/201711/17/wallls.com_143304.jpg
 image-sm: http://w4.wallls.com/uploads/original/201711/17/wallls.com_143304.jpg
 ---
 
-> "He who has a why to live can bear almost any how" - Nietzsche
+`"He who has a why to live can bear almost any how" - Nietzsche`
 
 
 ## Why did I start this blog?
