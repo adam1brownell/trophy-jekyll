@@ -14,7 +14,7 @@ default_img:
 
 # Profile settings
 name: Adam Brownell
-profile_img: "blog/assets/068A0394.jpg"
+profile_img: http://img.mcla.us/players/42880_2018012655152_XEYz.jpg
 profile: "Born in SoCal, living in West Hollywood. Studied Cognitive Science/Computation at UCLA. Data Scientist at Retina.ai. Love to surf, talk about the brain & robots."
 social:
   github: https://github.com/adam1brownell
