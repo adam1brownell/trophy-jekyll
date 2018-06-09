@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>2016/02/19/craft-beer/</loc>
+<loc>/blog/2016/02/19/craft-beer/</loc>
 <lastmod>2016-02-19T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>2018/06/04/start-with-why/</loc>
+<loc>/blog/2018/06/04/start-with-why/</loc>
 <lastmod>2018-06-04T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>2018/06/06/welcome-to-jekyll/</loc>
+<loc>/blog/2018/06/06/welcome-to-jekyll/</loc>
 <lastmod>2018-06-06T21:48:01-07:00</lastmod>
 </url>
 <url>
-<loc>archive/</loc>
+<loc>/blog/archive/</loc>
 </url>
 <url>
-<loc></loc>
+<loc>/blog/</loc>
 </url>
 <url>
-<loc> category/juice/</loc>
+<loc>/blog/category/juice/</loc>
 </url>
 <url>
-<loc> category/personal/</loc>
+<loc>/blog/category/personal/</loc>
 </url>
 </urlset>
